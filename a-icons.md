@@ -1,4 +1,4 @@
-# 🔤 A — Lucide Icons
+# A — Lucide Icons
 
 > **107 icons** in the **A** category.
 
