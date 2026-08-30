@@ -2,8 +2,6 @@
 
 > **107 icons** in the **A** category.
 
-<br>
-
 <table>
   <thead>
     <tr>
