@@ -1,111 +1,111 @@
 # A Icons
 
-| Icon | Name |
-|------|------|
-| ![a-arrow-down](lucide-icons/a/a-arrow-down.png) | `a-arrow-down` |
-| ![a-arrow-up](lucide-icons/a/a-arrow-up.png) | `a-arrow-up` |
-| ![a-large-small](lucide-icons/a/a-large-small.png) | `a-large-small` |
-| ![accessibility](lucide-icons/a/accessibility.png) | `accessibility` |
-| ![activity](lucide-icons/a/activity.png) | `activity` |
-| ![ad](lucide-icons/a/ad.png) | `ad` |
-| ![air-vent](lucide-icons/a/air-vent.png) | `air-vent` |
-| ![airplay](lucide-icons/a/airplay.png) | `airplay` |
-| ![alarm-clock-check](lucide-icons/a/alarm-clock-check.png) | `alarm-clock-check` |
-| ![alarm-clock-minus](lucide-icons/a/alarm-clock-minus.png) | `alarm-clock-minus` |
-| ![alarm-clock-off](lucide-icons/a/alarm-clock-off.png) | `alarm-clock-off` |
-| ![alarm-clock-plus](lucide-icons/a/alarm-clock-plus.png) | `alarm-clock-plus` |
-| ![alarm-clock](lucide-icons/a/alarm-clock.png) | `alarm-clock` |
-| ![alarm-smoke](lucide-icons/a/alarm-smoke.png) | `alarm-smoke` |
-| ![album](lucide-icons/a/album.png) | `album` |
-| ![align-center-horizontal](lucide-icons/a/align-center-horizontal.png) | `align-center-horizontal` |
-| ![align-center-vertical](lucide-icons/a/align-center-vertical.png) | `align-center-vertical` |
-| ![align-end-horizontal](lucide-icons/a/align-end-horizontal.png) | `align-end-horizontal` |
-| ![align-end-vertical](lucide-icons/a/align-end-vertical.png) | `align-end-vertical` |
-| ![align-horizontal-distribute-center](lucide-icons/a/align-horizontal-distribute-center.png) | `align-horizontal-distribute-center` |
-| ![align-horizontal-distribute-end](lucide-icons/a/align-horizontal-distribute-end.png) | `align-horizontal-distribute-end` |
-| ![align-horizontal-distribute-start](lucide-icons/a/align-horizontal-distribute-start.png) | `align-horizontal-distribute-start` |
-| ![align-horizontal-justify-center](lucide-icons/a/align-horizontal-justify-center.png) | `align-horizontal-justify-center` |
-| ![align-horizontal-justify-end](lucide-icons/a/align-horizontal-justify-end.png) | `align-horizontal-justify-end` |
-| ![align-horizontal-justify-start](lucide-icons/a/align-horizontal-justify-start.png) | `align-horizontal-justify-start` |
-| ![align-horizontal-space-around](lucide-icons/a/align-horizontal-space-around.png) | `align-horizontal-space-around` |
-| ![align-horizontal-space-between](lucide-icons/a/align-horizontal-space-between.png) | `align-horizontal-space-between` |
-| ![align-start-horizontal](lucide-icons/a/align-start-horizontal.png) | `align-start-horizontal` |
-| ![align-start-vertical](lucide-icons/a/align-start-vertical.png) | `align-start-vertical` |
-| ![align-vertical-distribute-center](lucide-icons/a/align-vertical-distribute-center.png) | `align-vertical-distribute-center` |
-| ![align-vertical-distribute-end](lucide-icons/a/align-vertical-distribute-end.png) | `align-vertical-distribute-end` |
-| ![align-vertical-distribute-start](lucide-icons/a/align-vertical-distribute-start.png) | `align-vertical-distribute-start` |
-| ![align-vertical-justify-center](lucide-icons/a/align-vertical-justify-center.png) | `align-vertical-justify-center` |
-| ![align-vertical-justify-end](lucide-icons/a/align-vertical-justify-end.png) | `align-vertical-justify-end` |
-| ![align-vertical-justify-start](lucide-icons/a/align-vertical-justify-start.png) | `align-vertical-justify-start` |
-| ![align-vertical-space-around](lucide-icons/a/align-vertical-space-around.png) | `align-vertical-space-around` |
-| ![align-vertical-space-between](lucide-icons/a/align-vertical-space-between.png) | `align-vertical-space-between` |
-| ![ambulance](lucide-icons/a/ambulance.png) | `ambulance` |
-| ![ampersand](lucide-icons/a/ampersand.png) | `ampersand` |
-| ![ampersands](lucide-icons/a/ampersands.png) | `ampersands` |
-| ![amphora](lucide-icons/a/amphora.png) | `amphora` |
-| ![anchor](lucide-icons/a/anchor.png) | `anchor` |
-| ![angle](lucide-icons/a/angle.png) | `angle` |
-| ![antenna](lucide-icons/a/antenna.png) | `antenna` |
-| ![anvil](lucide-icons/a/anvil.png) | `anvil` |
-| ![aperture](lucide-icons/a/aperture.png) | `aperture` |
-| ![app-window-mac](lucide-icons/a/app-window-mac.png) | `app-window-mac` |
-| ![app-window](lucide-icons/a/app-window.png) | `app-window` |
-| ![apple](lucide-icons/a/apple.png) | `apple` |
-| ![archive-restore](lucide-icons/a/archive-restore.png) | `archive-restore` |
-| ![archive-x](lucide-icons/a/archive-x.png) | `archive-x` |
-| ![archive](lucide-icons/a/archive.png) | `archive` |
-| ![armchair](lucide-icons/a/armchair.png) | `armchair` |
-| ![arrow-big-down-dash](lucide-icons/a/arrow-big-down-dash.png) | `arrow-big-down-dash` |
-| ![arrow-big-down](lucide-icons/a/arrow-big-down.png) | `arrow-big-down` |
-| ![arrow-big-left-dash](lucide-icons/a/arrow-big-left-dash.png) | `arrow-big-left-dash` |
-| ![arrow-big-left](lucide-icons/a/arrow-big-left.png) | `arrow-big-left` |
-| ![arrow-big-right-dash](lucide-icons/a/arrow-big-right-dash.png) | `arrow-big-right-dash` |
-| ![arrow-big-right](lucide-icons/a/arrow-big-right.png) | `arrow-big-right` |
-| ![arrow-big-up-dash](lucide-icons/a/arrow-big-up-dash.png) | `arrow-big-up-dash` |
-| ![arrow-big-up](lucide-icons/a/arrow-big-up.png) | `arrow-big-up` |
-| ![arrow-down-0-1](lucide-icons/a/arrow-down-0-1.png) | `arrow-down-0-1` |
-| ![arrow-down-1-0](lucide-icons/a/arrow-down-1-0.png) | `arrow-down-1-0` |
-| ![arrow-down-a-z](lucide-icons/a/arrow-down-a-z.png) | `arrow-down-a-z` |
-| ![arrow-down-from-line](lucide-icons/a/arrow-down-from-line.png) | `arrow-down-from-line` |
-| ![arrow-down-left](lucide-icons/a/arrow-down-left.png) | `arrow-down-left` |
-| ![arrow-down-narrow-wide](lucide-icons/a/arrow-down-narrow-wide.png) | `arrow-down-narrow-wide` |
-| ![arrow-down-right](lucide-icons/a/arrow-down-right.png) | `arrow-down-right` |
-| ![arrow-down-to-dot](lucide-icons/a/arrow-down-to-dot.png) | `arrow-down-to-dot` |
-| ![arrow-down-to-line](lucide-icons/a/arrow-down-to-line.png) | `arrow-down-to-line` |
-| ![arrow-down-up](lucide-icons/a/arrow-down-up.png) | `arrow-down-up` |
-| ![arrow-down-wide-narrow](lucide-icons/a/arrow-down-wide-narrow.png) | `arrow-down-wide-narrow` |
-| ![arrow-down-z-a](lucide-icons/a/arrow-down-z-a.png) | `arrow-down-z-a` |
-| ![arrow-down](lucide-icons/a/arrow-down.png) | `arrow-down` |
-| ![arrow-left-from-line](lucide-icons/a/arrow-left-from-line.png) | `arrow-left-from-line` |
-| ![arrow-left-right](lucide-icons/a/arrow-left-right.png) | `arrow-left-right` |
-| ![arrow-left-to-line](lucide-icons/a/arrow-left-to-line.png) | `arrow-left-to-line` |
-| ![arrow-left](lucide-icons/a/arrow-left.png) | `arrow-left` |
-| ![arrow-right-from-line](lucide-icons/a/arrow-right-from-line.png) | `arrow-right-from-line` |
-| ![arrow-right-left](lucide-icons/a/arrow-right-left.png) | `arrow-right-left` |
-| ![arrow-right-to-line](lucide-icons/a/arrow-right-to-line.png) | `arrow-right-to-line` |
-| ![arrow-right](lucide-icons/a/arrow-right.png) | `arrow-right` |
-| ![arrow-up-0-1](lucide-icons/a/arrow-up-0-1.png) | `arrow-up-0-1` |
-| ![arrow-up-1-0](lucide-icons/a/arrow-up-1-0.png) | `arrow-up-1-0` |
-| ![arrow-up-a-z](lucide-icons/a/arrow-up-a-z.png) | `arrow-up-a-z` |
-| ![arrow-up-down](lucide-icons/a/arrow-up-down.png) | `arrow-up-down` |
-| ![arrow-up-from-dot](lucide-icons/a/arrow-up-from-dot.png) | `arrow-up-from-dot` |
-| ![arrow-up-from-line](lucide-icons/a/arrow-up-from-line.png) | `arrow-up-from-line` |
-| ![arrow-up-left](lucide-icons/a/arrow-up-left.png) | `arrow-up-left` |
-| ![arrow-up-narrow-wide](lucide-icons/a/arrow-up-narrow-wide.png) | `arrow-up-narrow-wide` |
-| ![arrow-up-right](lucide-icons/a/arrow-up-right.png) | `arrow-up-right` |
-| ![arrow-up-to-line](lucide-icons/a/arrow-up-to-line.png) | `arrow-up-to-line` |
-| ![arrow-up-wide-narrow](lucide-icons/a/arrow-up-wide-narrow.png) | `arrow-up-wide-narrow` |
-| ![arrow-up-z-a](lucide-icons/a/arrow-up-z-a.png) | `arrow-up-z-a` |
-| ![arrow-up](lucide-icons/a/arrow-up.png) | `arrow-up` |
-| ![arrows-up-from-line](lucide-icons/a/arrows-up-from-line.png) | `arrows-up-from-line` |
-| ![asterisk](lucide-icons/a/asterisk.png) | `asterisk` |
-| ![astroid](lucide-icons/a/astroid.png) | `astroid` |
-| ![at-sign](lucide-icons/a/at-sign.png) | `at-sign` |
-| ![atom](lucide-icons/a/atom.png) | `atom` |
-| ![audio-lines-off](lucide-icons/a/audio-lines-off.png) | `audio-lines-off` |
-| ![audio-lines-x](lucide-icons/a/audio-lines-x.png) | `audio-lines-x` |
-| ![audio-lines](lucide-icons/a/audio-lines.png) | `audio-lines` |
-| ![audio-waveform](lucide-icons/a/audio-waveform.png) | `audio-waveform` |
-| ![award](lucide-icons/a/award.png) | `award` |
-| ![axe](lucide-icons/a/axe.png) | `axe` |
-| ![axis-3d](lucide-icons/a/axis-3d.png) | `axis-3d` |
+| Icon | Name | Link |
+|------|------|------|
+| ![a-arrow-down](lucide-icons/a/a-arrow-down.png) | `a-arrow-down` | [↗](https://lucide.dev/icons/a-arrow-down) |
+| ![a-arrow-up](lucide-icons/a/a-arrow-up.png) | `a-arrow-up` | [↗](https://lucide.dev/icons/a-arrow-up) |
+| ![a-large-small](lucide-icons/a/a-large-small.png) | `a-large-small` | [↗](https://lucide.dev/icons/a-large-small) |
+| ![accessibility](lucide-icons/a/accessibility.png) | `accessibility` | [↗](https://lucide.dev/icons/accessibility) |
+| ![activity](lucide-icons/a/activity.png) | `activity` | [↗](https://lucide.dev/icons/activity) |
+| ![ad](lucide-icons/a/ad.png) | `ad` | [↗](https://lucide.dev/icons/ad) |
+| ![air-vent](lucide-icons/a/air-vent.png) | `air-vent` | [↗](https://lucide.dev/icons/air-vent) |
+| ![airplay](lucide-icons/a/airplay.png) | `airplay` | [↗](https://lucide.dev/icons/airplay) |
+| ![alarm-clock-check](lucide-icons/a/alarm-clock-check.png) | `alarm-clock-check` | [↗](https://lucide.dev/icons/alarm-clock-check) |
+| ![alarm-clock-minus](lucide-icons/a/alarm-clock-minus.png) | `alarm-clock-minus` | [↗](https://lucide.dev/icons/alarm-clock-minus) |
+| ![alarm-clock-off](lucide-icons/a/alarm-clock-off.png) | `alarm-clock-off` | [↗](https://lucide.dev/icons/alarm-clock-off) |
+| ![alarm-clock-plus](lucide-icons/a/alarm-clock-plus.png) | `alarm-clock-plus` | [↗](https://lucide.dev/icons/alarm-clock-plus) |
+| ![alarm-clock](lucide-icons/a/alarm-clock.png) | `alarm-clock` | [↗](https://lucide.dev/icons/alarm-clock) |
+| ![alarm-smoke](lucide-icons/a/alarm-smoke.png) | `alarm-smoke` | [↗](https://lucide.dev/icons/alarm-smoke) |
+| ![album](lucide-icons/a/album.png) | `album` | [↗](https://lucide.dev/icons/album) |
+| ![align-center-horizontal](lucide-icons/a/align-center-horizontal.png) | `align-center-horizontal` | [↗](https://lucide.dev/icons/align-center-horizontal) |
+| ![align-center-vertical](lucide-icons/a/align-center-vertical.png) | `align-center-vertical` | [↗](https://lucide.dev/icons/align-center-vertical) |
+| ![align-end-horizontal](lucide-icons/a/align-end-horizontal.png) | `align-end-horizontal` | [↗](https://lucide.dev/icons/align-end-horizontal) |
+| ![align-end-vertical](lucide-icons/a/align-end-vertical.png) | `align-end-vertical` | [↗](https://lucide.dev/icons/align-end-vertical) |
+| ![align-horizontal-distribute-center](lucide-icons/a/align-horizontal-distribute-center.png) | `align-horizontal-distribute-center` | [↗](https://lucide.dev/icons/align-horizontal-distribute-center) |
+| ![align-horizontal-distribute-end](lucide-icons/a/align-horizontal-distribute-end.png) | `align-horizontal-distribute-end` | [↗](https://lucide.dev/icons/align-horizontal-distribute-end) |
+| ![align-horizontal-distribute-start](lucide-icons/a/align-horizontal-distribute-start.png) | `align-horizontal-distribute-start` | [↗](https://lucide.dev/icons/align-horizontal-distribute-start) |
+| ![align-horizontal-justify-center](lucide-icons/a/align-horizontal-justify-center.png) | `align-horizontal-justify-center` | [↗](https://lucide.dev/icons/align-horizontal-justify-center) |
+| ![align-horizontal-justify-end](lucide-icons/a/align-horizontal-justify-end.png) | `align-horizontal-justify-end` | [↗](https://lucide.dev/icons/align-horizontal-justify-end) |
+| ![align-horizontal-justify-start](lucide-icons/a/align-horizontal-justify-start.png) | `align-horizontal-justify-start` | [↗](https://lucide.dev/icons/align-horizontal-justify-start) |
+| ![align-horizontal-space-around](lucide-icons/a/align-horizontal-space-around.png) | `align-horizontal-space-around` | [↗](https://lucide.dev/icons/align-horizontal-space-around) |
+| ![align-horizontal-space-between](lucide-icons/a/align-horizontal-space-between.png) | `align-horizontal-space-between` | [↗](https://lucide.dev/icons/align-horizontal-space-between) |
+| ![align-start-horizontal](lucide-icons/a/align-start-horizontal.png) | `align-start-horizontal` | [↗](https://lucide.dev/icons/align-start-horizontal) |
+| ![align-start-vertical](lucide-icons/a/align-start-vertical.png) | `align-start-vertical` | [↗](https://lucide.dev/icons/align-start-vertical) |
+| ![align-vertical-distribute-center](lucide-icons/a/align-vertical-distribute-center.png) | `align-vertical-distribute-center` | [↗](https://lucide.dev/icons/align-vertical-distribute-center) |
+| ![align-vertical-distribute-end](lucide-icons/a/align-vertical-distribute-end.png) | `align-vertical-distribute-end` | [↗](https://lucide.dev/icons/align-vertical-distribute-end) |
+| ![align-vertical-distribute-start](lucide-icons/a/align-vertical-distribute-start.png) | `align-vertical-distribute-start` | [↗](https://lucide.dev/icons/align-vertical-distribute-start) |
+| ![align-vertical-justify-center](lucide-icons/a/align-vertical-justify-center.png) | `align-vertical-justify-center` | [↗](https://lucide.dev/icons/align-vertical-justify-center) |
+| ![align-vertical-justify-end](lucide-icons/a/align-vertical-justify-end.png) | `align-vertical-justify-end` | [↗](https://lucide.dev/icons/align-vertical-justify-end) |
+| ![align-vertical-justify-start](lucide-icons/a/align-vertical-justify-start.png) | `align-vertical-justify-start` | [↗](https://lucide.dev/icons/align-vertical-justify-start) |
+| ![align-vertical-space-around](lucide-icons/a/align-vertical-space-around.png) | `align-vertical-space-around` | [↗](https://lucide.dev/icons/align-vertical-space-around) |
+| ![align-vertical-space-between](lucide-icons/a/align-vertical-space-between.png) | `align-vertical-space-between` | [↗](https://lucide.dev/icons/align-vertical-space-between) |
+| ![ambulance](lucide-icons/a/ambulance.png) | `ambulance` | [↗](https://lucide.dev/icons/ambulance) |
+| ![ampersand](lucide-icons/a/ampersand.png) | `ampersand` | [↗](https://lucide.dev/icons/ampersand) |
+| ![ampersands](lucide-icons/a/ampersands.png) | `ampersands` | [↗](https://lucide.dev/icons/ampersands) |
+| ![amphora](lucide-icons/a/amphora.png) | `amphora` | [↗](https://lucide.dev/icons/amphora) |
+| ![anchor](lucide-icons/a/anchor.png) | `anchor` | [↗](https://lucide.dev/icons/anchor) |
+| ![angle](lucide-icons/a/angle.png) | `angle` | [↗](https://lucide.dev/icons/angle) |
+| ![antenna](lucide-icons/a/antenna.png) | `antenna` | [↗](https://lucide.dev/icons/antenna) |
+| ![anvil](lucide-icons/a/anvil.png) | `anvil` | [↗](https://lucide.dev/icons/anvil) |
+| ![aperture](lucide-icons/a/aperture.png) | `aperture` | [↗](https://lucide.dev/icons/aperture) |
+| ![app-window-mac](lucide-icons/a/app-window-mac.png) | `app-window-mac` | [↗](https://lucide.dev/icons/app-window-mac) |
+| ![app-window](lucide-icons/a/app-window.png) | `app-window` | [↗](https://lucide.dev/icons/app-window) |
+| ![apple](lucide-icons/a/apple.png) | `apple` | [↗](https://lucide.dev/icons/apple) |
+| ![archive-restore](lucide-icons/a/archive-restore.png) | `archive-restore` | [↗](https://lucide.dev/icons/archive-restore) |
+| ![archive-x](lucide-icons/a/archive-x.png) | `archive-x` | [↗](https://lucide.dev/icons/archive-x) |
+| ![archive](lucide-icons/a/archive.png) | `archive` | [↗](https://lucide.dev/icons/archive) |
+| ![armchair](lucide-icons/a/armchair.png) | `armchair` | [↗](https://lucide.dev/icons/armchair) |
+| ![arrow-big-down-dash](lucide-icons/a/arrow-big-down-dash.png) | `arrow-big-down-dash` | [↗](https://lucide.dev/icons/arrow-big-down-dash) |
+| ![arrow-big-down](lucide-icons/a/arrow-big-down.png) | `arrow-big-down` | [↗](https://lucide.dev/icons/arrow-big-down) |
+| ![arrow-big-left-dash](lucide-icons/a/arrow-big-left-dash.png) | `arrow-big-left-dash` | [↗](https://lucide.dev/icons/arrow-big-left-dash) |
+| ![arrow-big-left](lucide-icons/a/arrow-big-left.png) | `arrow-big-left` | [↗](https://lucide.dev/icons/arrow-big-left) |
+| ![arrow-big-right-dash](lucide-icons/a/arrow-big-right-dash.png) | `arrow-big-right-dash` | [↗](https://lucide.dev/icons/arrow-big-right-dash) |
+| ![arrow-big-right](lucide-icons/a/arrow-big-right.png) | `arrow-big-right` | [↗](https://lucide.dev/icons/arrow-big-right) |
+| ![arrow-big-up-dash](lucide-icons/a/arrow-big-up-dash.png) | `arrow-big-up-dash` | [↗](https://lucide.dev/icons/arrow-big-up-dash) |
+| ![arrow-big-up](lucide-icons/a/arrow-big-up.png) | `arrow-big-up` | [↗](https://lucide.dev/icons/arrow-big-up) |
+| ![arrow-down-0-1](lucide-icons/a/arrow-down-0-1.png) | `arrow-down-0-1` | [↗](https://lucide.dev/icons/arrow-down-0-1) |
+| ![arrow-down-1-0](lucide-icons/a/arrow-down-1-0.png) | `arrow-down-1-0` | [↗](https://lucide.dev/icons/arrow-down-1-0) |
+| ![arrow-down-a-z](lucide-icons/a/arrow-down-a-z.png) | `arrow-down-a-z` | [↗](https://lucide.dev/icons/arrow-down-a-z) |
+| ![arrow-down-from-line](lucide-icons/a/arrow-down-from-line.png) | `arrow-down-from-line` | [↗](https://lucide.dev/icons/arrow-down-from-line) |
+| ![arrow-down-left](lucide-icons/a/arrow-down-left.png) | `arrow-down-left` | [↗](https://lucide.dev/icons/arrow-down-left) |
+| ![arrow-down-narrow-wide](lucide-icons/a/arrow-down-narrow-wide.png) | `arrow-down-narrow-wide` | [↗](https://lucide.dev/icons/arrow-down-narrow-wide) |
+| ![arrow-down-right](lucide-icons/a/arrow-down-right.png) | `arrow-down-right` | [↗](https://lucide.dev/icons/arrow-down-right) |
+| ![arrow-down-to-dot](lucide-icons/a/arrow-down-to-dot.png) | `arrow-down-to-dot` | [↗](https://lucide.dev/icons/arrow-down-to-dot) |
+| ![arrow-down-to-line](lucide-icons/a/arrow-down-to-line.png) | `arrow-down-to-line` | [↗](https://lucide.dev/icons/arrow-down-to-line) |
+| ![arrow-down-up](lucide-icons/a/arrow-down-up.png) | `arrow-down-up` | [↗](https://lucide.dev/icons/arrow-down-up) |
+| ![arrow-down-wide-narrow](lucide-icons/a/arrow-down-wide-narrow.png) | `arrow-down-wide-narrow` | [↗](https://lucide.dev/icons/arrow-down-wide-narrow) |
+| ![arrow-down-z-a](lucide-icons/a/arrow-down-z-a.png) | `arrow-down-z-a` | [↗](https://lucide.dev/icons/arrow-down-z-a) |
+| ![arrow-down](lucide-icons/a/arrow-down.png) | `arrow-down` | [↗](https://lucide.dev/icons/arrow-down) |
+| ![arrow-left-from-line](lucide-icons/a/arrow-left-from-line.png) | `arrow-left-from-line` | [↗](https://lucide.dev/icons/arrow-left-from-line) |
+| ![arrow-left-right](lucide-icons/a/arrow-left-right.png) | `arrow-left-right` | [↗](https://lucide.dev/icons/arrow-left-right) |
+| ![arrow-left-to-line](lucide-icons/a/arrow-left-to-line.png) | `arrow-left-to-line` | [↗](https://lucide.dev/icons/arrow-left-to-line) |
+| ![arrow-left](lucide-icons/a/arrow-left.png) | `arrow-left` | [↗](https://lucide.dev/icons/arrow-left) |
+| ![arrow-right-from-line](lucide-icons/a/arrow-right-from-line.png) | `arrow-right-from-line` | [↗](https://lucide.dev/icons/arrow-right-from-line) |
+| ![arrow-right-left](lucide-icons/a/arrow-right-left.png) | `arrow-right-left` | [↗](https://lucide.dev/icons/arrow-right-left) |
+| ![arrow-right-to-line](lucide-icons/a/arrow-right-to-line.png) | `arrow-right-to-line` | [↗](https://lucide.dev/icons/arrow-right-to-line) |
+| ![arrow-right](lucide-icons/a/arrow-right.png) | `arrow-right` | [↗](https://lucide.dev/icons/arrow-right) |
+| ![arrow-up-0-1](lucide-icons/a/arrow-up-0-1.png) | `arrow-up-0-1` | [↗](https://lucide.dev/icons/arrow-up-0-1) |
+| ![arrow-up-1-0](lucide-icons/a/arrow-up-1-0.png) | `arrow-up-1-0` | [↗](https://lucide.dev/icons/arrow-up-1-0) |
+| ![arrow-up-a-z](lucide-icons/a/arrow-up-a-z.png) | `arrow-up-a-z` | [↗](https://lucide.dev/icons/arrow-up-a-z) |
+| ![arrow-up-down](lucide-icons/a/arrow-up-down.png) | `arrow-up-down` | [↗](https://lucide.dev/icons/arrow-up-down) |
+| ![arrow-up-from-dot](lucide-icons/a/arrow-up-from-dot.png) | `arrow-up-from-dot` | [↗](https://lucide.dev/icons/arrow-up-from-dot) |
+| ![arrow-up-from-line](lucide-icons/a/arrow-up-from-line.png) | `arrow-up-from-line` | [↗](https://lucide.dev/icons/arrow-up-from-line) |
+| ![arrow-up-left](lucide-icons/a/arrow-up-left.png) | `arrow-up-left` | [↗](https://lucide.dev/icons/arrow-up-left) |
+| ![arrow-up-narrow-wide](lucide-icons/a/arrow-up-narrow-wide.png) | `arrow-up-narrow-wide` | [↗](https://lucide.dev/icons/arrow-up-narrow-wide) |
+| ![arrow-up-right](lucide-icons/a/arrow-up-right.png) | `arrow-up-right` | [↗](https://lucide.dev/icons/arrow-up-right) |
+| ![arrow-up-to-line](lucide-icons/a/arrow-up-to-line.png) | `arrow-up-to-line` | [↗](https://lucide.dev/icons/arrow-up-to-line) |
+| ![arrow-up-wide-narrow](lucide-icons/a/arrow-up-wide-narrow.png) | `arrow-up-wide-narrow` | [↗](https://lucide.dev/icons/arrow-up-wide-narrow) |
+| ![arrow-up-z-a](lucide-icons/a/arrow-up-z-a.png) | `arrow-up-z-a` | [↗](https://lucide.dev/icons/arrow-up-z-a) |
+| ![arrow-up](lucide-icons/a/arrow-up.png) | `arrow-up` | [↗](https://lucide.dev/icons/arrow-up) |
+| ![arrows-up-from-line](lucide-icons/a/arrows-up-from-line.png) | `arrows-up-from-line` | [↗](https://lucide.dev/icons/arrows-up-from-line) |
+| ![asterisk](lucide-icons/a/asterisk.png) | `asterisk` | [↗](https://lucide.dev/icons/asterisk) |
+| ![astroid](lucide-icons/a/astroid.png) | `astroid` | [↗](https://lucide.dev/icons/astroid) |
+| ![at-sign](lucide-icons/a/at-sign.png) | `at-sign` | [↗](https://lucide.dev/icons/at-sign) |
+| ![atom](lucide-icons/a/atom.png) | `atom` | [↗](https://lucide.dev/icons/atom) |
+| ![audio-lines-off](lucide-icons/a/audio-lines-off.png) | `audio-lines-off` | [↗](https://lucide.dev/icons/audio-lines-off) |
+| ![audio-lines-x](lucide-icons/a/audio-lines-x.png) | `audio-lines-x` | [↗](https://lucide.dev/icons/audio-lines-x) |
+| ![audio-lines](lucide-icons/a/audio-lines.png) | `audio-lines` | [↗](https://lucide.dev/icons/audio-lines) |
+| ![audio-waveform](lucide-icons/a/audio-waveform.png) | `audio-waveform` | [↗](https://lucide.dev/icons/audio-waveform) |
+| ![award](lucide-icons/a/award.png) | `award` | [↗](https://lucide.dev/icons/award) |
+| ![axe](lucide-icons/a/axe.png) | `axe` | [↗](https://lucide.dev/icons/axe) |
+| ![axis-3d](lucide-icons/a/axis-3d.png) | `axis-3d` | [↗](https://lucide.dev/icons/axis-3d) |
