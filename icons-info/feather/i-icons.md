@@ -1,0 +1,7 @@
+    <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/feather-pack/i/image.png" width="24" height="24" alt="image"></td><td><code>image</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/i/image.png">↗</a></td></tr>
+    <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/feather-pack/i/inbox.png" width="24" height="24" alt="inbox"></td><td><code>inbox</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/i/inbox.png">↗</a></td></tr>
+    <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/feather-pack/i/info.png" width="24" height="24" alt="info"></td><td><code>info</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/i/info.png">↗</a></td></tr>
+    <tr><td align="center">4</td><td align="center"><img src="../../icons-pack/feather-pack/i/instagram.png" width="24" height="24" alt="instagram"></td><td><code>instagram</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/i/instagram.png">↗</a></td></tr>
+    <tr><td align="center">5</td><td align="center"><img src="../../icons-pack/feather-pack/i/italic.png" width="24" height="24" alt="italic"></td><td><code>italic</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/i/italic.png">↗</a></td></tr>
+  </tbody>
+</table>
