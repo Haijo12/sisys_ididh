@@ -37,20 +37,6 @@ Feather icons cover these common categories:
 | **Social** | github, twitter, facebook, instagram |
 | **Weather** | sun, moon, cloud, rain, wind, snowflake |
 
-## Usage
-
-### Direct URL (Roblox / Web)
-```
-https://raw.githubusercontent.com/Haijo12/roblox-icons/main/feather-pack/a/arrow-down.png
-```
-
-### Roblox Loadstring
-```lua
-local Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/Haijo12/roblox-icons/main/roblox/icons.lua"))()
-local img = Instance.new("ImageLabel")
-img.Image = Icons:Get("feather", "arrow-down")
-```
-
 ## License
 
 MIT License - Copyright (c) 2013-2020 Cole Bemis

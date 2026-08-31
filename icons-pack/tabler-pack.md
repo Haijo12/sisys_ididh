@@ -47,20 +47,6 @@ Tabler icons follow these principles:
 - **Readable** - Clear at small sizes
 - **Versatile** - Suitable for any application
 
-## Usage
-
-### Direct URL (Roblox / Web)
-```
-https://raw.githubusercontent.com/Haijo12/roblox-icons/main/tabler-pack/a/3d-cube-sphere.png
-```
-
-### Roblox Loadstring
-```lua
-local Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/Haijo12/roblox-icons/main/roblox/icons.lua"))()
-local img = Instance.new("ImageLabel")
-img.Image = Icons:Get("tabler", "3d-cube-sphere")
-```
-
 ## License
 
 MIT License - Copyright (c) 2019 Paweł Kuna

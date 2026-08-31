@@ -51,20 +51,6 @@ Phosphor offers 6 different visual weights:
 | **Fill** | Solid | Buttons, highlights |
 | **Duotone** | 2px + fill | Two-tone illustrations |
 
-## Usage
-
-### Direct URL (Roblox / Web)
-```
-https://raw.githubusercontent.com/Haijo12/roblox-icons/main/phosphor-pack/a/arrow-elbow-down-right.png
-```
-
-### Roblox Loadstring
-```lua
-local Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/Haijo12/roblox-icons/main/roblox/icons.lua"))()
-local img = Instance.new("ImageLabel")
-img.Image = Icons:Get("phosphor", "arrow-elbow-down-right")
-```
-
 ## License
 
 MIT License - Copyright (c) 2021 Phosphor Icons

@@ -88,27 +88,6 @@ pack-name/
 └── ...         # Through z/
 ```
 
-## Usage
-
-### Direct Image Reference
-
-```html
-<img src="icons-pack/lucide-pack/a/arrow-down.png" width="24" height="24" />
-<img src="icons-pack/material-pack/a/add.png" width="24" height="24" />
-```
-
-### Roblox Integration
-
-These PNG icons can be uploaded to Roblox as image assets and used in your games:
-
-1. Upload the PNG file to Roblox Studio
-2. Get the asset ID
-3. Use in your scripts:
-   ```lua
-   local img = Instance.new("ImageLabel")
-   img.Image = "rbxassetid://YOUR_ASSET_ID"
-   ```
-
 ## License
 
 This repository contains icons from multiple open-source projects. Each icon pack retains its original license:

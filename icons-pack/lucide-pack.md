@@ -56,18 +56,6 @@ Icons follow the standard Lucide naming pattern:
 - **Prefix groups**: `arrow-*`, `circle-*`, `square-*`, `chart-*`, `book-*`
 - **Variants**: `-off`, `-plus`, `-minus`, `-check`, `-x`
 
-## Usage
-
-### Direct Image Reference
-
-```html
-<img src="lucide-icons/a/arrow-down.png" width="24" height="24" />
-```
-
-### Roblox (loadstring)
-
-See the [`roblox/`](../roblox/) folder for Roblox-compatible icon definitions.
-
 ## License
 
 These icons are from the [Lucide](https://lucide.dev) project, licensed under the [ISC License](https://lucide.dev/license).

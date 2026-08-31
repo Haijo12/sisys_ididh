@@ -43,20 +43,6 @@ Heroicons are designed to be:
 - **Scalable** - Work at any size
 - **Accessible** - Clear contrast and recognizable shapes
 
-## Usage
-
-### Direct URL (Roblox / Web)
-```
-https://raw.githubusercontent.com/Haijo12/roblox-icons/main/heroicons-pack/a/academic-cap.png
-```
-
-### Roblox Loadstring
-```lua
-local Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/Haijo12/roblox-icons/main/roblox/icons.lua"))()
-local img = Instance.new("ImageLabel")
-img.Image = Icons:Get("heroicons", "academic-cap")
-```
-
 ## License
 
 MIT License - Copyright (c) 2020 Tailwind Labs

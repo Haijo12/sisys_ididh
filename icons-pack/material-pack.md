@@ -44,24 +44,6 @@ material-pack/
 - **Prefix groups**: `arrow_*`, `file_*`, `image_*`
 - **Variants**: `_off`, `_outline`, `_filled`
 
-## Usage
-
-### Direct Image Reference
-
-```html
-<img src="material-pack/a/add.png" width="24" height="24" />
-<img src="material-pack/a/account_circle.png" width="24" height="24" />
-```
-
-### Roblox Integration
-
-Upload the PNG file to Roblox Studio and use the asset ID:
-
-```lua
-local img = Instance.new("ImageLabel")
-img.Image = "rbxassetid://YOUR_ASSET_ID"
-```
-
 ## License
 
 Apache License 2.0 - Copyright Google Inc.
