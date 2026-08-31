@@ -21,12 +21,14 @@ A comprehensive collection of **11,619 PNG icons** from 6 popular open-source ic
 roblox-icons/
 ├── README.md                  # This file
 ├── LICENSE                    # ISC License
-├── lucide-pack/              # Lucide icons (1,776)
-├── material-pack/            # Material Design icons (2,266)
-├── tabler-pack/              # Tabler icons (5,130)
-├── phosphor-pack/            # Phosphor icons (1,512)
-├── heroicons-pack/           # Heroicons (648)
-├── feather-pack/             # Feather icons (287)
+├── icons-pack/               # All icon packs
+│   ├── lucide-pack/          # Lucide icons (1,776)
+│   ├── material-pack/        # Material Design icons (2,266)
+│   ├── tabler-pack/          # Tabler icons (5,130)
+│   ├── phosphor-pack/        # Phosphor icons (1,512)
+│   ├── heroicons-pack/       # Heroicons (648)
+│   ├── feather-pack/         # Feather icons (287)
+│   └── *.md                  # Pack documentation
 └── icons-info/               # Icon catalog markdown files
 ```
 
@@ -37,42 +39,42 @@ roblox-icons/
 - **Icons**: 1,776
 - **Style**: Clean, minimal, consistent
 - **Colors**: White on transparent
-- **Details**: See [lucide-pack.md](lucide-pack.md)
+- **Details**: See [icons-pack/lucide-pack.md](icons-pack/lucide-pack.md)
 
 ### Material Pack
 - **Source**: [Google Material Design Icons](https://github.com/google/material-design-icons)
 - **Icons**: 2,266
 - **Style**: Google Material Design
 - **Colors**: Black on transparent
-- **Details**: See [material-pack.md](material-pack.md)
+- **Details**: See [icons-pack/material-pack.md](icons-pack/material-pack.md)
 
 ### Tabler Pack
 - **Source**: [Tabler Icons](https://tabler.io/icons)
 - **Icons**: 5,130
 - **Style**: Modern, clean, consistent
 - **Colors**: White on transparent
-- **Details**: See [tabler-pack.md](tabler-pack.md)
+- **Details**: See [icons-pack/tabler-pack.md](icons-pack/tabler-pack.md)
 
 ### Phosphor Pack
 - **Source**: [Phosphor Icons](https://phosphoricons.com)
 - **Icons**: 1,512
 - **Style**: Flexible, multiple weights
 - **Colors**: White on transparent
-- **Details**: See [phosphor-pack.md](phosphor-pack.md)
+- **Details**: See [icons-pack/phosphor-pack.md](icons-pack/phosphor-pack.md)
 
 ### Heroicons Pack
 - **Source**: [Heroicons](https://heroicons.com) by Tailwind Labs
 - **Icons**: 648
 - **Style**: Outline + Solid variants
 - **Colors**: White on transparent
-- **Details**: See [heroicons-pack.md](heroicons-pack.md)
+- **Details**: See [icons-pack/heroicons-pack.md](icons-pack/heroicons-pack.md)
 
 ### Feather Pack
 - **Source**: [Feather Icons](https://feathericons.com)
 - **Icons**: 287
 - **Style**: Simple, consistent, minimal
 - **Colors**: White on transparent
-- **Details**: See [feather-pack.md](feather-pack.md)
+- **Details**: See [icons-pack/feather-pack.md](icons-pack/feather-pack.md)
 
 ## Organization
 
@@ -91,8 +93,8 @@ pack-name/
 ### Direct Image Reference
 
 ```html
-<img src="lucide-pack/a/arrow-down.png" width="24" height="24" />
-<img src="material-pack/a/add.png" width="24" height="24" />
+<img src="icons-pack/lucide-pack/a/arrow-down.png" width="24" height="24" />
+<img src="icons-pack/material-pack/a/add.png" width="24" height="24" />
 ```
 
 ### Roblox Integration
