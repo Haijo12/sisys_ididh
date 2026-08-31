@@ -1,73 +1,142 @@
-# Lucide Icons
+# Roblox Icons Collection
 
-A collection of **1,776 PNG icons** from the [Lucide](https://lucide.dev) icon library, organized alphabetically for easy browsing.
+A comprehensive collection of **11,619 PNG icons** from 6 popular open-source icon libraries, organized alphabetically for easy browsing and use in Roblox projects.
 
-## Structure
+## Icon Packs
+
+| Pack | Icons | Source | License |
+|------|------:|--------|---------|
+| **Lucide Pack** | 1,776 | [lucide.dev](https://lucide.dev) | ISC |
+| **Material Pack** | 2,266 | [Google Material Design](https://github.com/google/material-design-icons) | Apache 2.0 |
+| **Tabler Pack** | 5,130 | [tabler.io/icons](https://tabler.io/icons) | MIT |
+| **Phosphor Pack** | 1,512 | [phosphoricons.com](https://phosphoricons.com) | MIT |
+| **Heroicons Pack** | 648 | [heroicons.com](https://heroicons.com) | MIT |
+| **Feather Pack** | 287 | [feathericons.com](https://feathericons.com) | MIT |
+
+**Total: 11,619 icons**
+
+## Repository Structure
 
 ```
-lucide-icons/
-  a/          107 icons
-  b/          150 icons
-  c/          262 icons
-  d/           54 icons
-  e/           25 icons
-  f/          137 icons
-  g/           53 icons
-  h/           54 icons
-  i/           22 icons
-  j/            2 icons
-  k/            8 icons
-  l/           85 icons
-  m/          138 icons
-  n/           16 icons
-  o/            9 icons
-  p/          106 icons
-  q/            2 icons
-  r/           71 icons
-  s/          250 icons
-  t/          101 icons
-  u/           43 icons
-  v/           22 icons
-  w/           40 icons
-  x/            2 icons
-  y/            0 icons
-  z/           17 icons
+roblox-icons/
+├── README.md                  # This file
+├── LICENSE                    # ISC License
+├── lucide-pack/              # Lucide icons (1,776)
+├── material-pack/            # Material Design icons (2,266)
+├── tabler-pack/              # Tabler icons (5,130)
+├── phosphor-pack/            # Phosphor icons (1,512)
+├── heroicons-pack/           # Heroicons (648)
+├── feather-pack/             # Feather icons (287)
+└── icons-info/               # Icon catalog markdown files
 ```
 
-## Categories
+## Icon Pack Details
 
-| Folder | Icons | | Folder | Icons | | Folder | Icons |
-|--------|------:|-|--------|------:|-|--------|------:|
-| `a/` | 107 | | `j/` | 2 | | `s/` | 250 |
-| `b/` | 150 | | `k/` | 8 | | `t/` | 101 |
-| `c/` | 262 | | `l/` | 85 | | `u/` | 43 |
-| `d/` | 54 | | `m/` | 138 | | `v/` | 22 |
-| `e/` | 25 | | `n/` | 16 | | `w/` | 40 |
-| `f/` | 137 | | `o/` | 9 | | `x/` | 2 |
-| `g/` | 53 | | `p/` | 106 | | `y/` | 0 |
-| `h/` | 54 | | `q/` | 2 | | `z/` | 17 |
-| `i/` | 22 | | `r/` | 71 | | | |
+### Lucide Pack
+- **Source**: [Lucide](https://lucide.dev) - open-source icon library
+- **Icons**: 1,776
+- **Style**: Clean, minimal, consistent
+- **Colors**: White on transparent
+- **Details**: See [lucide-pack.md](lucide-pack.md)
 
-## Naming Convention
+### Material Pack
+- **Source**: [Google Material Design Icons](https://github.com/google/material-design-icons)
+- **Icons**: 2,266
+- **Style**: Google Material Design
+- **Colors**: Black on transparent
+- **Details**: See [material-pack.md](material-pack.md)
 
-Icons follow the standard Lucide naming pattern:
+### Tabler Pack
+- **Source**: [Tabler Icons](https://tabler.io/icons)
+- **Icons**: 5,130
+- **Style**: Modern, clean, consistent
+- **Colors**: White on transparent
+- **Details**: See [tabler-pack.md](tabler-pack.md)
 
-- **kebab-case**: `arrow-down.png`, `bell-check.png`
-- **Prefix groups**: `arrow-*`, `circle-*`, `square-*`, `chart-*`, `book-*`
-- **Variants**: `-off`, `-plus`, `-minus`, `-check`, `-x`
+### Phosphor Pack
+- **Source**: [Phosphor Icons](https://phosphoricons.com)
+- **Icons**: 1,512
+- **Style**: Flexible, multiple weights
+- **Colors**: White on transparent
+- **Details**: See [phosphor-pack.md](phosphor-pack.md)
+
+### Heroicons Pack
+- **Source**: [Heroicons](https://heroicons.com) by Tailwind Labs
+- **Icons**: 648
+- **Style**: Outline + Solid variants
+- **Colors**: White on transparent
+- **Details**: See [heroicons-pack.md](heroicons-pack.md)
+
+### Feather Pack
+- **Source**: [Feather Icons](https://feathericons.com)
+- **Icons**: 287
+- **Style**: Simple, consistent, minimal
+- **Colors**: White on transparent
+- **Details**: See [feather-pack.md](feather-pack.md)
+
+## Organization
+
+Each icon pack follows the same structure:
+
+```
+pack-name/
+├── a/          # Icons starting with 'a'
+├── b/          # Icons starting with 'b'
+├── c/          # Icons starting with 'c'
+└── ...         # Through z/
+```
 
 ## Usage
 
 ### Direct Image Reference
 
 ```html
-<img src="lucide-icons/a/arrow-down.png" width="24" height="24" />
+<img src="lucide-pack/a/arrow-down.png" width="24" height="24" />
+<img src="material-pack/a/add.png" width="24" height="24" />
 ```
 
-### Roblox (loadstring)
+### Roblox Integration
 
-See the [`roblox/`](../roblox/) folder for Roblox-compatible icon definitions.
+These PNG icons can be uploaded to Roblox as image assets and used in your games:
+
+1. Upload the PNG file to Roblox Studio
+2. Get the asset ID
+3. Use in your scripts:
+   ```lua
+   local img = Instance.new("ImageLabel")
+   img.Image = "rbxassetid://YOUR_ASSET_ID"
+   ```
 
 ## License
 
-These icons are from the [Lucide](https://lucide.dev) project, licensed under the [ISC License](https://lucide.dev/license).
+This repository contains icons from multiple open-source projects. Each icon pack retains its original license:
+
+- **Lucide**: ISC License
+- **Material**: Apache License 2.0
+- **Tabler**: MIT License
+- **Phosphor**: MIT License
+- **Heroicons**: MIT License
+- **Feather**: MIT License
+
+See individual pack documentation for full license details.
+
+## Contributing
+
+To add a new icon pack:
+
+1. Download the icons as PNG files
+2. Organize them alphabetically in a-z folders
+3. Name the folder with `-pack` suffix (e.g., `newicon-pack/`)
+4. Create a markdown file with pack details
+5. Update this README with the new pack information
+
+## Acknowledgments
+
+Thanks to all the open-source icon library creators for their amazing work:
+
+- [Lucide](https://lucide.dev) - Clean, minimal icons
+- [Google Material Design](https://m3.material.io/) - Material Design icons
+- [Tabler Icons](https://tabler.io/icons) - Modern icon set
+- [Phosphor Icons](https://phosphoricons.com) - Flexible icon family
+- [Heroicons](https://heroicons.com) - Beautiful hand-crafted icons
+- [Feather Icons](https://feathericons.com) - Simply beautiful icons
