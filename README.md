@@ -101,16 +101,6 @@ This repository contains icons from multiple open-source projects. Each icon pac
 
 See individual pack documentation for full license details.
 
-## Contributing
-
-To add a new icon pack:
-
-1. Download the icons as PNG files
-2. Organize them alphabetically in a-z folders
-3. Name the folder with `-pack` suffix (e.g., `newicon-pack/`)
-4. Create a markdown file with pack details
-5. Update this README with the new pack information
-
 ## Acknowledgments
 
 Thanks to all the open-source icon library creators for their amazing work:
