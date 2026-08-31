@@ -1,3 +1,17 @@
+# E — Heroicons Icons
+
+> **22 icons** in the **E** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/heroicons-pack/e/ellipsis-horizontal-circle.png" width="24" height="24" alt="ellipsis-horizontal-circle"></td><td><code>ellipsis-horizontal-circle</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/heroicons-pack/e/ellipsis-horizontal-circle.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/heroicons-pack/e/ellipsis-horizontal-circle_solid.png" width="24" height="24" alt="ellipsis-horizontal-circle_solid"></td><td><code>ellipsis-horizontal-circle_solid</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/heroicons-pack/e/ellipsis-horizontal-circle_solid.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/heroicons-pack/e/ellipsis-horizontal.png" width="24" height="24" alt="ellipsis-horizontal"></td><td><code>ellipsis-horizontal</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/heroicons-pack/e/ellipsis-horizontal.png">↗</a></td></tr>

@@ -1,3 +1,17 @@
+# F — Material Icons
+
+> **93 icons** in the **F** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/material-pack/white/f/face.png" width="24" height="24" alt="face"></td><td><code>face</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/f/face.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/material-pack/white/f/fast_forward.png" width="24" height="24" alt="fast_forward"></td><td><code>fast_forward</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/f/fast_forward.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/material-pack/white/f/fast_rewind.png" width="24" height="24" alt="fast_rewind"></td><td><code>fast_rewind</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/f/fast_rewind.png">↗</a></td></tr>

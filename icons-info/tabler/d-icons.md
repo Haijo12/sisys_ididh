@@ -1,3 +1,17 @@
+# D — Tabler Icons
+
+> **333 icons** in the **D** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/tabler-pack/d/dashboard-off.png" width="24" height="24" alt="dashboard-off"></td><td><code>dashboard-off</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/d/dashboard-off.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/tabler-pack/d/dashboard.png" width="24" height="24" alt="dashboard"></td><td><code>dashboard</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/d/dashboard.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/tabler-pack/d/database-cog.png" width="24" height="24" alt="database-cog"></td><td><code>database-cog</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/d/database-cog.png">↗</a></td></tr>

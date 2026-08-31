@@ -1,3 +1,17 @@
+# A — Material Icons
+
+> **86 icons** in the **A** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/material-pack/white/a/ac_unit.png" width="24" height="24" alt="ac_unit"></td><td><code>ac_unit</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/a/ac_unit.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/material-pack/white/a/access_alarm.png" width="24" height="24" alt="access_alarm"></td><td><code>access_alarm</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/a/access_alarm.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/material-pack/white/a/access_alarms.png" width="24" height="24" alt="access_alarms"></td><td><code>access_alarms</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/a/access_alarms.png">↗</a></td></tr>

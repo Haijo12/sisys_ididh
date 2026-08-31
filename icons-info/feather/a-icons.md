@@ -1,3 +1,17 @@
+# A — Feather Icons
+
+> **26 icons** in the **A** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/feather-pack/a/activity.png" width="24" height="24" alt="activity"></td><td><code>activity</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/a/activity.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/feather-pack/a/airplay.png" width="24" height="24" alt="airplay"></td><td><code>airplay</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/a/airplay.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/feather-pack/a/alert-circle.png" width="24" height="24" alt="alert-circle"></td><td><code>alert-circle</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/a/alert-circle.png">↗</a></td></tr>

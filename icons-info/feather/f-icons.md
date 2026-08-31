@@ -1,3 +1,17 @@
+# F — Feather Icons
+
+> **16 icons** in the **F** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/feather-pack/f/facebook.png" width="24" height="24" alt="facebook"></td><td><code>facebook</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/f/facebook.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/feather-pack/f/fast-forward.png" width="24" height="24" alt="fast-forward"></td><td><code>fast-forward</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/f/fast-forward.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/feather-pack/f/feather.png" width="24" height="24" alt="feather"></td><td><code>feather</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/f/feather.png">↗</a></td></tr>

@@ -1,3 +1,17 @@
+# C — Feather Icons
+
+> **45 icons** in the **C** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/feather-pack/c/calendar.png" width="24" height="24" alt="calendar"></td><td><code>calendar</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/c/calendar.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/feather-pack/c/camera-off.png" width="24" height="24" alt="camera-off"></td><td><code>camera-off</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/c/camera-off.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/feather-pack/c/camera.png" width="24" height="24" alt="camera"></td><td><code>camera</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/c/camera.png">↗</a></td></tr>

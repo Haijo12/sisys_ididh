@@ -1,3 +1,17 @@
+# E — Phosphor Icons
+
+> **30 icons** in the **E** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/phosphor-pack/e/ear-slash.png" width="24" height="24" alt="ear-slash"></td><td><code>ear-slash</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/e/ear-slash.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/phosphor-pack/e/ear.png" width="24" height="24" alt="ear"></td><td><code>ear</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/e/ear.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/phosphor-pack/e/egg-crack.png" width="24" height="24" alt="egg-crack"></td><td><code>egg-crack</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/e/egg-crack.png">↗</a></td></tr>

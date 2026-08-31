@@ -1,3 +1,17 @@
+# F — Phosphor Icons
+
+> **115 icons** in the **F** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/phosphor-pack/f/face-mask.png" width="24" height="24" alt="face-mask"></td><td><code>face-mask</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/f/face-mask.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/phosphor-pack/f/facebook-logo.png" width="24" height="24" alt="facebook-logo"></td><td><code>facebook-logo</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/f/facebook-logo.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/phosphor-pack/f/factory.png" width="24" height="24" alt="factory"></td><td><code>factory</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/f/factory.png">↗</a></td></tr>

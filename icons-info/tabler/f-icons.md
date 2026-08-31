@@ -1,3 +1,17 @@
+# F — Tabler Icons
+
+> **272 icons** in the **F** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/tabler-pack/f/face-id-error.png" width="24" height="24" alt="face-id-error"></td><td><code>face-id-error</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/f/face-id-error.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/tabler-pack/f/face-id.png" width="24" height="24" alt="face-id"></td><td><code>face-id</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/f/face-id.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/tabler-pack/f/face-mask-off.png" width="24" height="24" alt="face-mask-off"></td><td><code>face-mask-off</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/f/face-mask-off.png">↗</a></td></tr>
