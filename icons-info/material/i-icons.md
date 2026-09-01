@@ -1,3 +1,17 @@
+# I — Material Icons
+
+> **21 icons** in the **I** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/material-pack/white/i/image.png" width="24" height="24" alt="image"></td><td><code>image</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/i/image.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/material-pack/white/i/image_aspect_ratio.png" width="24" height="24" alt="image_aspect_ratio"></td><td><code>image_aspect_ratio</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/i/image_aspect_ratio.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/material-pack/white/i/image_search.png" width="24" height="24" alt="image_search"></td><td><code>image_search</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/i/image_search.png">↗</a></td></tr>

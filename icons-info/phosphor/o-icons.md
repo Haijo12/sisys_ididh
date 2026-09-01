@@ -1,3 +1,17 @@
+# O — Phosphor Icons
+
+> **8 icons** in the **O** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/phosphor-pack/o/octagon.png" width="24" height="24" alt="octagon"></td><td><code>octagon</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/o/octagon.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/phosphor-pack/o/office-chair.png" width="24" height="24" alt="office-chair"></td><td><code>office-chair</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/o/office-chair.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/phosphor-pack/o/onigiri.png" width="24" height="24" alt="onigiri"></td><td><code>onigiri</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/o/onigiri.png">↗</a></td></tr>

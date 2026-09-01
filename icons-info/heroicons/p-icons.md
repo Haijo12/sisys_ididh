@@ -1,3 +1,17 @@
+# P — Heroicons
+
+> **48 icons** in the **P** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/heroicons-pack/p/paint-brush.png" width="24" height="24" alt="paint-brush"></td><td><code>paint-brush</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/heroicons-pack/p/paint-brush.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/heroicons-pack/p/paint-brush_solid.png" width="24" height="24" alt="paint-brush_solid"></td><td><code>paint-brush_solid</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/heroicons-pack/p/paint-brush_solid.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/heroicons-pack/p/paper-airplane.png" width="24" height="24" alt="paper-airplane"></td><td><code>paper-airplane</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/heroicons-pack/p/paper-airplane.png">↗</a></td></tr>

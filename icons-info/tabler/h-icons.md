@@ -1,3 +1,17 @@
+# H — Tabler Icons
+
+> **215 icons** in the **H** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/tabler-pack/h/h-1.png" width="24" height="24" alt="h-1"></td><td><code>h-1</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/h/h-1.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/tabler-pack/h/h-2.png" width="24" height="24" alt="h-2"></td><td><code>h-2</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/h/h-2.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/tabler-pack/h/h-3.png" width="24" height="24" alt="h-3"></td><td><code>h-3</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/h/h-3.png">↗</a></td></tr>

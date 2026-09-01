@@ -1,3 +1,17 @@
+# L — Phosphor Icons
+
+> **55 icons** in the **L** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/phosphor-pack/l/ladder-simple.png" width="24" height="24" alt="ladder-simple"></td><td><code>ladder-simple</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/l/ladder-simple.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/phosphor-pack/l/ladder.png" width="24" height="24" alt="ladder"></td><td><code>ladder</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/l/ladder.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/phosphor-pack/l/lamp-pendant.png" width="24" height="24" alt="lamp-pendant"></td><td><code>lamp-pendant</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/l/lamp-pendant.png">↗</a></td></tr>

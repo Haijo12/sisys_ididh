@@ -1,3 +1,17 @@
+# T — Heroicons
+
+> **14 icons** in the **T** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/heroicons-pack/t/table-cells.png" width="24" height="24" alt="table-cells"></td><td><code>table-cells</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/heroicons-pack/t/table-cells.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/heroicons-pack/t/table-cells_solid.png" width="24" height="24" alt="table-cells_solid"></td><td><code>table-cells_solid</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/heroicons-pack/t/table-cells_solid.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/heroicons-pack/t/tag.png" width="24" height="24" alt="tag"></td><td><code>tag</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/heroicons-pack/t/tag.png">↗</a></td></tr>

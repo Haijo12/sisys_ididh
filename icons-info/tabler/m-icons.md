@@ -1,3 +1,17 @@
+# M — Tabler Icons
+
+> **368 icons** in the **M** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/tabler-pack/m/macro-off.png" width="24" height="24" alt="macro-off"></td><td><code>macro-off</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/m/macro-off.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/tabler-pack/m/macro.png" width="24" height="24" alt="macro"></td><td><code>macro</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/m/macro.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/tabler-pack/m/magnet-off.png" width="24" height="24" alt="magnet-off"></td><td><code>magnet-off</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/m/magnet-off.png">↗</a></td></tr>

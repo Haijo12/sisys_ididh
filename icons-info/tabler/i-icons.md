@@ -1,3 +1,17 @@
+# I — Tabler Icons
+
+> **55 icons** in the **I** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/tabler-pack/i/ice-cream-2.png" width="24" height="24" alt="ice-cream-2"></td><td><code>ice-cream-2</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/i/ice-cream-2.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/tabler-pack/i/ice-cream-off.png" width="24" height="24" alt="ice-cream-off"></td><td><code>ice-cream-off</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/i/ice-cream-off.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/tabler-pack/i/ice-cream.png" width="24" height="24" alt="ice-cream"></td><td><code>ice-cream</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/i/ice-cream.png">↗</a></td></tr>

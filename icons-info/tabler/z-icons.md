@@ -1,3 +1,17 @@
+# Z — Tabler Icons
+
+> **33 icons** in the **Z** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/tabler-pack/z/zeppelin-off.png" width="24" height="24" alt="zeppelin-off"></td><td><code>zeppelin-off</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/z/zeppelin-off.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/tabler-pack/z/zeppelin.png" width="24" height="24" alt="zeppelin"></td><td><code>zeppelin</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/z/zeppelin.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/tabler-pack/z/zero-config.png" width="24" height="24" alt="zero-config"></td><td><code>zero-config</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/z/zero-config.png">↗</a></td></tr>

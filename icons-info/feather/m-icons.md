@@ -1,3 +1,17 @@
+# M — Feather Icons
+
+> **23 icons** in the **M** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/feather-pack/m/mail.png" width="24" height="24" alt="mail"></td><td><code>mail</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/m/mail.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/feather-pack/m/map-pin.png" width="24" height="24" alt="map-pin"></td><td><code>map-pin</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/m/map-pin.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/feather-pack/m/map.png" width="24" height="24" alt="map"></td><td><code>map</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/feather-pack/m/map.png">↗</a></td></tr>

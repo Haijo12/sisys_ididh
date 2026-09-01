@@ -1,3 +1,17 @@
+# N — Phosphor Icons
+
+> **53 icons** in the **N** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/phosphor-pack/n/navigation-arrow.png" width="24" height="24" alt="navigation-arrow"></td><td><code>navigation-arrow</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/n/navigation-arrow.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/phosphor-pack/n/needle.png" width="24" height="24" alt="needle"></td><td><code>needle</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/n/needle.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/phosphor-pack/n/network-slash.png" width="24" height="24" alt="network-slash"></td><td><code>network-slash</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/phosphor-pack/n/network-slash.png">↗</a></td></tr>

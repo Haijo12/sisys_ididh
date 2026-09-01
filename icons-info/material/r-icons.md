@@ -1,3 +1,17 @@
+# R — Material Icons
+
+> **45 icons** in the **R** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/material-pack/white/r/radio.png" width="24" height="24" alt="radio"></td><td><code>radio</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/r/radio.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/material-pack/white/r/radio_button_checked.png" width="24" height="24" alt="radio_button_checked"></td><td><code>radio_button_checked</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/r/radio_button_checked.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/material-pack/white/r/radio_button_unchecked.png" width="24" height="24" alt="radio_button_unchecked"></td><td><code>radio_button_unchecked</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/material-pack/white/r/radio_button_unchecked.png">↗</a></td></tr>

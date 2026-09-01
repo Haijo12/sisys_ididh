@@ -1,4 +1,4 @@
-# D — Heroicons Icons
+# D — Heroicons
 
 > **38 icons** in the **D** category.
 

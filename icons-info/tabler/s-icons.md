@@ -1,3 +1,17 @@
+# S — Tabler Icons
+
+> **486 icons** in the **S** category.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="50"><strong>#</strong></th>
+      <th align="center" width="60"><strong>Icon</strong></th>
+      <th align="left"><strong>Name</strong></th>
+      <th align="center" width="60"><strong>File</strong></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/tabler-pack/s/s-turn-down.png" width="24" height="24" alt="s-turn-down"></td><td><code>s-turn-down</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/s/s-turn-down.png">↗</a></td></tr>
     <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/tabler-pack/s/s-turn-left.png" width="24" height="24" alt="s-turn-left"></td><td><code>s-turn-left</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/s/s-turn-left.png">↗</a></td></tr>
     <tr><td align="center">3</td><td align="center"><img src="../../icons-pack/tabler-pack/s/s-turn-right.png" width="24" height="24" alt="s-turn-right"></td><td><code>s-turn-right</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/tabler-pack/s/s-turn-right.png">↗</a></td></tr>
