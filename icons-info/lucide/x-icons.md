@@ -12,7 +12,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/lucide-pack/x/x-line-top.png" width="24" height="24" alt="x-line-top"></td><td><code>x-line-top</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/lucide-pack/x/x-line-top.png">↗</a></td></tr>
-    <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/lucide-pack/x/x.png" width="24" height="24" alt="x"></td><td><code>x</code></td><td align="center"><a href="https://github.com/Haijo12/roblox-icons/blob/main/icons-pack/lucide-pack/x/x.png">↗</a></td></tr>
+    <tr><td align="center">1</td><td align="center"><img src="../../icons-pack/lucide-pack/x/lucideXLineTop.png" width="24" height="24" alt="lucideXLineTop"></td><td><code>lucideXLineTop</code></td><td align="center"><a href="https://github.com/Haijo12/sisys_ididh/blob/main/icons-pack/lucide-pack/x/lucideXLineTop.png">↗</a></td></tr>
+    <tr><td align="center">2</td><td align="center"><img src="../../icons-pack/lucide-pack/x/lucideX.png" width="24" height="24" alt="lucideX"></td><td><code>lucideX</code></td><td align="center"><a href="https://github.com/Haijo12/sisys_ididh/blob/main/icons-pack/lucide-pack/x/lucideX.png">↗</a></td></tr>
   </tbody>
 </table>

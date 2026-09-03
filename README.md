@@ -18,12 +18,12 @@ A comprehensive collection of **11,619 PNG icons** from 6 popular open-source ic
 ## Repository Structure
 
 ```
-roblox-icons/
+sisys_ididh/
 ├── README.md                  # This file
 ├── LICENSE                    # ISC License
 ├── icons-pack/               # All icon packs
 │   ├── lucide-pack/          # Lucide icons (1,776)
-│   ├── material-pack/        # Material Design icons (2,266)
+│   ├── material-pack/        # Material Design icons (2,266: 1,133 x black/white)
 │   ├── tabler-pack/          # Tabler icons (5,130)
 │   ├── phosphor-pack/        # Phosphor icons (1,512)
 │   ├── heroicons-pack/       # Heroicons (648)
@@ -43,9 +43,9 @@ roblox-icons/
 
 ### Material Pack
 - **Source**: [Google Material Design Icons](https://github.com/google/material-design-icons)
-- **Icons**: 2,266
+- **Icons**: 2,266 (1,133 icons x black/white variants)
 - **Style**: Google Material Design
-- **Colors**: Black on transparent
+- **Colors**: White and black on transparent (both variants included; catalog shows white)
 - **Details**: See [icons-pack/material-pack.md](icons-pack/material-pack.md)
 
 ### Tabler Pack
@@ -76,6 +76,35 @@ roblox-icons/
 - **Colors**: White on transparent
 - **Details**: See [icons-pack/feather-pack.md](icons-pack/feather-pack.md)
 
+## Naming Convention
+
+Every icon name is prefixed with its pack and written in camelCase
+(`<pack><IconName>`), so identical base icon names never collide across packs
+and lookups are case-sensitive:
+
+| Pack | Example |
+|------|---------|
+| **Lucide** | `lucideArrowDown` |
+| **Material** | `materialAddCircle` |
+| **Tabler** | `tablerAB2` |
+| **Phosphor** | `phosphorAirplaneInFlight` |
+| **Heroicons** | `heroiconsAcademicCapSolid` |
+| **Feather** | `featherAlertCircle` |
+
+In Luau, look up any icon globally with `Icons.get("lucideArrowDown")`, or use
+`Icons.getByPack("material", "add")` with the pack and the original icon name.
+
+## Icon Sizes
+
+| Pack | Size |
+|------|------|
+| **Lucide** | 64x64 |
+| **Material** | 24x24 (black and white variants) |
+| **Tabler** | 48x48 |
+| **Phosphor** | 48x48 |
+| **Heroicons** | 48x48 |
+| **Feather** | 48x48 |
+
 ## Organization
 
 Each icon pack follows the same structure:
@@ -86,6 +115,15 @@ pack-name/
 ├── b/          # Icons starting with 'b'
 ├── c/          # Icons starting with 'c'
 └── ...         # Through z/
+```
+
+The Material pack additionally ships every icon in both `black/` and `white/`
+variants:
+
+```
+material-pack/
+├── black/      # Black icons (a-z)
+└── white/      # White icons (a-z, shown in the catalog)
 ```
 
 ## License

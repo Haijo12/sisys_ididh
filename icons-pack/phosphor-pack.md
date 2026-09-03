@@ -7,7 +7,7 @@ A flexible icon family with 1,512+ icons in 6 weights.
 | Property | Value |
 |----------|-------|
 | **Total Icons** | 1,512 |
-| **Format** | PNG (24x24, white on transparent) |
+| **Format** | PNG (48x48, white on transparent) |
 | **Original Format** | SVG |
 | **License** | MIT |
 | **Author** | Phosphor Icons Team |
@@ -17,7 +17,7 @@ A flexible icon family with 1,512+ icons in 6 weights.
 ## Features
 
 - **6 weight variants**: Thin, Light, Regular, Bold, Fill, Duotone
-- Consistent 24x24 pixel grid
+- Consistent 48x48 pixel grid
 - Beautiful, modern design
 - Extensive icon library
 - Regularly updated

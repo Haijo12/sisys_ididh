@@ -17,10 +17,12 @@ Google Material Design icons - a comprehensive collection of **2,266 icons** fol
 
 ```
 material-pack/
-├── a/          # Icons starting with 'a'
-├── b/          # Icons starting with 'b'
-├── c/          # Icons starting with 'c'
-└── ...         # Through z/
+├── black/      # Black icons (a-z)
+│   ├── a/      # Icons starting with 'a'
+│   └── ...
+└── white/      # White icons (a-z)
+    ├── a/      # Icons starting with 'a'
+    └── ...
 ```
 
 ### Icon Categories

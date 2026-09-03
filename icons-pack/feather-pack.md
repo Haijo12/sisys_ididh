@@ -7,7 +7,7 @@ A collection of beautifully crafted, open-source icons by Cole Bemis.
 | Property | Value |
 |----------|-------|
 | **Total Icons** | 287 |
-| **Format** | PNG (24x24, white on transparent) |
+| **Format** | PNG (48x48, white on transparent) |
 | **Original Format** | SVG |
 | **License** | MIT |
 | **Author** | Cole Bemis |
@@ -16,7 +16,7 @@ A collection of beautifully crafted, open-source icons by Cole Bemis.
 
 ## Features
 
-- Simple and consistent 24x24 grid
+- Simple and consistent 48x48 grid
 - Stroke-based icons (outlines only)
 - Clean, minimal design
 - Perfect for interfaces and dashboards

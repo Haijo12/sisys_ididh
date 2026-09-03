@@ -7,7 +7,7 @@ A set of 5,130+ open-source SVG icons, designed to be clean and modern.
 | Property | Value |
 |----------|-------|
 | **Total Icons** | 5,130 |
-| **Format** | PNG (24x24, white on transparent) |
+| **Format** | PNG (48x48, white on transparent) |
 | **Original Format** | SVG |
 | **License** | MIT |
 | **Author** | Paweł Kuna |
@@ -18,7 +18,7 @@ A set of 5,130+ open-source SVG icons, designed to be clean and modern.
 
 - Largest icon set in this collection
 - Clean, modern design language
-- Consistent 24x24 grid
+- Consistent 48x48 grid
 - Multiple weight variants (outline, filled)
 - Regularly updated with new icons
 - MIT licensed - completely free
@@ -42,7 +42,7 @@ A set of 5,130+ open-source SVG icons, designed to be clean and modern.
 ## Design Philosophy
 
 Tabler icons follow these principles:
-- **Pixel-perfect** - Designed on a 24x24 pixel grid
+- **Pixel-perfect** - Designed on a 48x48 pixel grid
 - **Consistent** - Same stroke width, corner radius, and optical sizing
 - **Readable** - Clear at small sizes
 - **Versatile** - Suitable for any application

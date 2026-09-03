@@ -7,7 +7,7 @@ A set of 648 hand-crafted SVG icons by the makers of Tailwind CSS.
 | Property | Value |
 |----------|-------|
 | **Total Icons** | 648 |
-| **Format** | PNG (24x24, white on transparent) |
+| **Format** | PNG (48x48, white on transparent) |
 | **Original Format** | SVG (Outline + Solid variants) |
 | **License** | MIT |
 | **Author** | Refactoring UI / Tailwind Labs |
@@ -17,7 +17,7 @@ A set of 648 hand-crafted SVG icons by the makers of Tailwind CSS.
 ## Features
 
 - Hand-crafted by professional designers
-- Consistent 24x24 pixel grid
+- Consistent 48x48 pixel grid
 - Optimized for web interfaces
 - Clean, modern aesthetic
 - Used in production by thousands of apps
